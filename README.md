@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5c12a4e4-c4f6-4228-96b3-0416e8fe4211" /># 🚀 TechTogether Platform
+# 🚀 TechTogether Platform
 
 ## 📌 Overview
 TechTogether is a web-based platform designed to connect job-seeking coders with tech companies.  
