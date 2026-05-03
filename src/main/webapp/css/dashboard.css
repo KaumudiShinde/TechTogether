@@ -1,0 +1,22 @@
+body{
+ background:#0b1220;
+ color:cyan;
+ font-family:Arial;
+}
+.container{
+ width:80%;
+ margin:auto;
+}
+.card{
+ background:#101827;
+ padding:20px;
+ border-radius:12px;
+ box-shadow:0 0 10px cyan;
+}
+.btn{
+ background:linear-gradient(45deg, cyan, purple);
+ color:white;
+ padding:10px 15px;
+ border-radius:8px;
+ text-decoration:none;
+}
